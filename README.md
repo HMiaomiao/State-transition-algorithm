@@ -10,4 +10,4 @@
 * numpy
 * matplotlib
 ## 优化问题
-![ ](https://github.com/HMiaomiao/State-transition-algorithm/raw/master/pic/Michalewicz_3d.png"Michalewicz3D图")
+![](https://github.com/HMiaomiao/State-transition-algorithm/raw/master/pic/Michalewicz_3d.png "Michalewicz3D")
