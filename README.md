@@ -7,7 +7,7 @@
 控制工程研究所<br>
 智能控制与优化决策课题组
 ## 代码运行环境
-* Python2.7
+* Python 3.5
 * numpy
 * matplotlib
 ## 优化问题
